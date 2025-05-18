@@ -1,0 +1,51 @@
+{
+  "experience": [
+    {
+      "id": 2,
+      "title": "Software Engineering Intern",
+      "fromToDate": "May 2024 – Aug. 2024",
+      "employer": "Google LLC",
+      "description": "Contributed to the integration of internal microservices by designing and implementing testing and automation tools using Python to optimize quality assurance processes. Developed user dashboards for the internal team, leveraging HTML, CSS, and JavaScript alongside Node.js to seamlessly interface with the automation tools. Gained relevant experience in the software engineering processes by working within multiple teams to implement features, host review sessions updating documentation, and partake in daily engineering standups. ",
+      "tags": ["Python", "HTML", "CSS", "Javascript", "NodeJS",  "Google Cloud"],
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "title": "Multiplatform Software Engineer",
+      "fromToDate": "Sep 2021 – Mar 2022",
+      "employer": "myTourni eSports",
+      "description": "Fullstack design and development of a mobile application for iOS/Android using Dart and the Flutter framework using the Waterfall Software Development Methodology. Worked with Google Firebase to manage user inputted data across multiple platforms including web and mobile apps. Integrated cross-platform authentication using Discord’s API to improve user experience and increase usage of the app to 40% of the communities userbase. Utilized Github and Jenkins for version control to manage source code and provide continuous integration in order to automate the entire process of loading the latest build code. Generated analytical reports used to make recommendations for further development resulting in 75% less spending over 3 months. ",
+      "tags": ["Dart", "Flutter", "Firebase", "Google Cloud"],
+      "link": "https://www.mytourni.com"
+    },
+    {
+      "id": 4,
+      "title": "Java Software Engineer",
+      "fromToDate": "Oct 2017 – Jan 2018",
+      "employer": "Melon Development Inc",
+      "description": "Utilized GitHub to create a robust bug-management system for user-reported issues resulting in a 33% increase of validated issues. Maintained 100% customer satisfaction during weekly standup by ensuring that critical issues were fixed, tested and deployed to production. Analyzed and documented U.X issues and provided accurate and relevant solutions on strict deadlines.",
+      "tags": ["Java", "Github", "JSON", "MySQL"]
+    },
+    {
+      "id": 5,
+      "title": "Java Software Engineer",
+      "fromToDate": "Jul 2015 – Jan 2019",
+      "employer": "VisionCoding LLC",
+      "description": "lorem50",
+      "tags": ["Java", "Github", "MySQL"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Developer Portfolio",
+      "fromToDate": "2024",
+      "employer": "Personal",
+      "description": "",
+      "tags": ["SvelteKit", "TailwindCSS", "HTML", "Javascript", "Github"],
+      "preview": "some-image-link-here", 
+      "link": "https://dev.tevinfilms.com"
+    },
+    {
+      "id": 2,
+... (truncated for brevity)
