@@ -1,0 +1,16 @@
+{
+	"/": [],
+	"/about-us": [],
+	"/coming-soon": [],
+	"/contact-us": [
+		"src/routes/contact-us/+page.server.ts"
+	],
+	"/services": [
+		"src/routes/services/+layout.ts",
+		"src/routes/services/+layout.ts"
+	],
+	"/services/[service]": [
+		"src/routes/services/[service]/+page.ts",
+		"src/routes/services/+layout.ts"
+	]
+}
